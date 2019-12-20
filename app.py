@@ -1,3 +1,6 @@
+# Author: Dimitri Joy
+# Date:   12/19/2019
+
 from bottle import get, post, redirect, request, response, route, run, static_file, template
 import datetime, hashlib, os, sqlite3, uuid
 
